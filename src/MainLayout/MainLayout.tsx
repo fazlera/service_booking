@@ -6,7 +6,7 @@ import Header from "../Sheard/Header/Header/Header";
 const MainLayout = () => {
     return (        
         <>
-        <div className="bg-yellow-500 font-googleFont">
+        <div className="bg-cyan-600 font-googleFont">
             <Header/>
         </div>
         <div>

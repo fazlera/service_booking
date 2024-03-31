@@ -1,8 +1,10 @@
+import Banner from "../../Sheard/Header/Banner/Banner";
 
 const Home = () => {
     return (
         <div>
-            <h1>hello world</h1>
+            <Banner/>
+            
         </div>
     );
 };
