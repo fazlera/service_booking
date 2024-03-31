@@ -5,7 +5,7 @@ import { IoMdNotifications } from "react-icons/io";
 const Header = () => {
     return (
         <div className="w-10/12 mx-auto ">
-            <div className="flex justify-between h-20 bg-yellow-500 font-bold text-2xl text-slate-700 ">
+            <div className="flex justify-between h-20 bg-yellow-500 font-bold text-2xl text-stone-100 ">
 
                 <div className="flex gap-5 items-center hover:cursor-pointer">
                    <span><FaPhoneAlt/></span>
